@@ -31,5 +31,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 #Data usage and processing in project
 
+Fields are named as in the original material. We are keeping only mean and std fields, and have added activityId, activity ( label ) and subject (id ) fields to the dataset. Those fields are self explanatory.
 
+I decided not to transform field names into marginally more readable form, as they were well documented and sufficiently understandable in the raw material. 
 

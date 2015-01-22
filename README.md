@@ -49,6 +49,7 @@ Once you have downloaded the repository. Set the current working directory to th
 Like:
 
 setwd("/Users/huima/datascience/gettingandcleaningdata/project-repo")
+
 source("run_analysis.R")
 
 Tested on OS X. "R version 3.1.1 (2014-07-10)"
